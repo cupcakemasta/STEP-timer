@@ -1,3 +1,5 @@
+A customizable study and exam timer with countdown and count-up modes, flexible blocks and breaks, exam presets(CMS, NBME, Full Exam Simulation), accommodations timing, live session logging, recovery after closing/reloading, and optional always-on-top mode.
+
 SAFARI IOS/IPAD SETUP
 
 1. https://cupcakemasta.github.io/STEP-timer/
